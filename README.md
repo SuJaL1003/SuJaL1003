@@ -7,23 +7,21 @@ I mostly work with the MERN stack, with a strong interest in backend logic, APIs
 This profile is where I share projects, experiments, and things I’m actively building — everything written and structured by me.
 
 ______________________________________________________________________________________________________________________________________________________________________________
-Tools & Tech
-
 ## 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?logo=express)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35"/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35"/>
 
 ______________________________________________________________________________________________________________________________________________________________________________
 A Bit About Me
