@@ -26,3 +26,8 @@ A Bit About Me
 🚀 Learning by building real-world projects
 
 🎯 Simple, practical solutions over overengineering
+______________________________________________________________________________________________________________________________________________________________________________
+Connect with me:
+https://www.linkedin.com/in/sujal-mishra-5124ba212/
+https://www.instagram.com/sujalmishraa_/
+
