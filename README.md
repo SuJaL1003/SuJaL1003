@@ -27,7 +27,6 @@ A Bit About Me
 
 🎯 Simple, practical solutions over overengineering
 ______________________________________________________________________________________________________________________________________________________________________________
-Connect with me:
-https://www.linkedin.com/in/sujal-mishra-5124ba212/
-https://www.instagram.com/sujalmishraa_/
-
+🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sujal%20Mishra-blue?logo=linkedin)](https://www.linkedin.com/in/sujal-mishra-5124ba212/)
+[![Instagram](https://img.shields.io/badge/Instagram-sujalmishraa__-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sujalmishraa_/)
