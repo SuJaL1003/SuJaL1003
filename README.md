@@ -1,16 +1,27 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
-**SuJaL1003/SuJaL1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Sujal, a full stack developer focused on building clean, scalable web applications.
 
-Here are some ideas to get you started:
+I mostly work with the MERN stack, with a strong interest in backend logic, APIs, and database-driven systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile is where I share projects, experiments, and things I’m actively building — everything written and structured by me.
+
+Tools & Tech
+
+React, JavaScript, HTML, CSS
+
+Node.js, Express
+
+MongoDB, MySQL
+
+Git, GitHub, Postman
+
+A Bit About Me
+
+⚙️ Backend-focused thinker
+
+🧠 I like clean architecture and readable code
+
+🚀 Learning by building real-world projects
+
+🎯 Simple, practical solutions over overengineering
